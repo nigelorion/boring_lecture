@@ -1,19 +1,9 @@
-h2.intro {
+.intro {
   color: red;
   font-size: 20pt;
   font-family: fantasy;
 }
 
-p.intro {
-  color: green;
-  font-variant: small-caps;
-  padding: 110px;
-}
-
 body {
   text-align: center;
-}
-
-img.intro {
-  width: 110%;
 }
